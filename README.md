@@ -1,0 +1,2 @@
+# iOSAFNetWorking
+iOSAFNetWorkingPOST和GET的简单了解
